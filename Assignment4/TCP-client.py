@@ -1,6 +1,6 @@
 """File Overview
 Description:
-Sends a time request to the server. Upon receiving a response, it
+Sends a TCP time request to the server. Upon receiving a response, it
 calculates the time difference between the server's time and the
 client's local time. The client should establish a connection to the
 server on a specified IP address and port, which is received as user input.
